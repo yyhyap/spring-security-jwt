@@ -1,0 +1,1 @@
+A sample of JWT Authentication and Authorization using Spring Security
